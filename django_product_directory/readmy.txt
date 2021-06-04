@@ -1,0 +1,9 @@
+1.Устанавливаем последнюю версию Django
+pip install django
+2.Создаем проект
+django-admin.ry startproject django_product_directory
+3.Разархиврруем фаил django_product_directory.rar d\в директорию созданого проекта
+4.Запускаем отладочный вев сервер
+manage,ry runserver
+5.Запускаем программу main.ry 
+
